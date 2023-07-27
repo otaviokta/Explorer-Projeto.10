@@ -46,8 +46,3 @@ Rocketseat Stage 05 Intensive Project of Guessing Game.
   <img alt="Icone JavaScript" title="#JavaScript" src="./assets/images/javascript.svg" width="100px">
 </p>
 
----
-
-## 📝 License
-
-This project is under license [MIT](./LICENSE).
